@@ -27,6 +27,8 @@ tmux
 
 While in tmux trigger TPM to fetch the plugins:
 ```
-CTRL+B SHIFT+I
+CTRL+b SHIFT+i
 ```
+TPM should install the plugins defined in .tmux.conf. 
+(press ESC to continue as suggested)
 
